@@ -1,0 +1,23 @@
+#new_heading{
+    color: red;
+    background-color: lightcoral;
+}
+
+.box{
+    height: 400px;
+    width: 100%;
+    color: blue;
+    background-color: beige;
+    border: 5px solid black;
+    border-radius: 5px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    
+}
+
+a{
+    text-decoration: none;
+    font-size: larger;
+}
+
