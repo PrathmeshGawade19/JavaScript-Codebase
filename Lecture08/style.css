@@ -1,0 +1,15 @@
+p{
+    background-color: aqua;
+    height: 10rem;
+    width: 10rem;
+}
+
+.dark{
+    background-color: black;
+    color: white;
+}
+
+.light{
+    background-color: white;
+    color: dark;
+}
