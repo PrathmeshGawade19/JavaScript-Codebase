@@ -40,20 +40,23 @@ Each file in this repository represents a concept I learned, implemented, and pr
 - Temporal Dead Zone and the `this` keyword
 - Modules and error handling
 
-### 9. Mini-Projects
-- **Mini-Project 1**: A simple project to apply basic concepts
-- **Mini-Project 2**: A project designed to solidify understanding
+### 9. Mini-Project 1
+- A simple project to apply basic concepts
 
-### 10. Object-Oriented Programming (OOP)
+### 10. Mini-Project 2
+- A project designed to solidify understanding
+
+### 11. Object-Oriented Programming (OOP)
 - Classes and objects
 - Inheritance, polymorphism, and encapsulation
 
-### 11. Callbacks, Promises, and Async-Await
+### 12. Callbacks, Promises, and Async-Await
 - Asynchronous programming in JavaScript
 - Understanding and implementing `Promise` and `async-await`
 
-### 12. Fetch API
+### 13. Fetch API
 - Fetching data from APIs
 - Handling API responses and errors
 
 ---
+
